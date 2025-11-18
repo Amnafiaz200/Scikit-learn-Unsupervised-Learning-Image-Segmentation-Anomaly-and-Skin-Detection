@@ -48,18 +48,19 @@ A comprehensive Python project demonstrating unsupervised learning techniques, i
 - **t-SNE, PCA** – for dimensionality reduction in visualization
 
 ---
-## **Project Structure**
-├── Image_Segmentation/
-│ ├── kmeans.py
-│ ├── kmedoids.py
-│ ├── agglomerative.py
-│ └── example_images/
-├── Anomaly_Detection/
-│ ├── credit_card_fraud.ipynb
-│ └── datasets/
-└── Skin_Detection/
-├── ycbcr_gmm.py
-└── example_images/
+## Project Structure
+
+- Image_Segmentation/
+  - kmeans.py
+  - kmedoids.py
+  - agglomerative.py
+  - example_images/
+- Anomaly_Detection/
+  - credit_card_fraud.ipynb
+  - datasets/
+- Skin_Detection/
+  - ycbcr_gmm.py
+  - example_images/
 
 ---
 
@@ -69,22 +70,18 @@ A comprehensive Python project demonstrating unsupervised learning techniques, i
 - **Visualization**: High-quality visualizations of clusters, segmented images, and anomalies using PCA and t-SNE.
 - **Evaluation Metrics**: Silhouette score and Within-Cluster Sum of Squares (WCSS) to assess clustering quality.
 - **Real-world Applications**: Fraud detection, image segmentation, and skin detection for computer vision tasks.
-
+  
+## **Install Required Libraries**
+pip install -r requirements.txt
+Datasets
+Credit Card Fraud Detection Dataset: Available on Kaggle, also included in this repository
+License
+This project is licensed under the MIT License.
 ---
-Clone the repository:
+## Clone the Repository
 ```bash
 git clone https://github.com/your-username/Unsupervised-Learning-Image-Analysis-and-Anomaly-Detection.git
 cd Unsupervised-Learning-Image-Analysis-and-Anomaly-Detection
-<br>
-## **Install required libraries:**
-pip install -r requirements.txt
-Run Jupyter notebooks or Python scripts for:
-<br>
-## **Datasets**
-Credit Card Fraud Detection Dataset: Available on Kaggle, also in this repository
-<br>
-**License**
-This project is licensed under the MIT License.
 
 
 
