@@ -71,25 +71,19 @@ A comprehensive Python project demonstrating unsupervised learning techniques, i
 - **Real-world Applications**: Fraud detection, image segmentation, and skin detection for computer vision tasks.
 
 ---
-
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/your-username/Unsupervised-Learning-Image-Analysis-and-Anomaly-Detection.git
 cd Unsupervised-Learning-Image-Analysis-and-Anomaly-Detection
----
-
-Install required libraries:
+<br>
+## **Install required libraries:**
 pip install -r requirements.txt
 Run Jupyter notebooks or Python scripts for:
-
-Image Segmentation
-Credit Card Fraud Detection
-Skin Detection
-
-Datasets
+<br>
+## **Datasets**
 Credit Card Fraud Detection Dataset: Available on Kaggle, also in this repository
-
-License
+<br>
+**License**
 This project is licensed under the MIT License.
 
 
