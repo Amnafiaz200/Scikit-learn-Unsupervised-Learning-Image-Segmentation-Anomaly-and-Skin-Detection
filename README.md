@@ -7,12 +7,11 @@ A comprehensive Python project demonstrating unsupervised learning techniques, i
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c64a16bb-26c0-40ca-bb47-51ccde7b9eaa" width="250" />
 </p>
-<p float="left">
+<p float="center">
   <img src="https://github.com/user-attachments/assets/56c748a5-df07-4015-bd2d-a33a463c0618" width="200" />
   <img src="https://github.com/user-attachments/assets/e16d9d66-2662-4901-b043-3a4c8cec3117" width="200" />
   <img src="https://github.com/user-attachments/assets/6a67d0a0-12ea-4572-bf6d-0b79ff5b15d5" width="200" />
 </p>
-<img width="992" height="490" alt="image" src="https://github.com/user-attachments/assets/b7ea7661-bad3-40e0-b8e8-cb255d98a107" />
 <br>
 2. **Anomaly Detection in Credit Card Transactions**
    - Detect fraudulent transactions using clustering methods such as **K-means++, K-medoids, and DBSCAN**.
