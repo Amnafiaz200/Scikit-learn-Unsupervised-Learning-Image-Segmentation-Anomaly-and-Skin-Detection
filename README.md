@@ -1,0 +1,2 @@
+# Scikit-learn-Unsupervised-Learning-Image-Segmentation-Anomaly-and-Skin-Detection
+A comprehensive Python project demonstrating unsupervised learning techniques, including image segmentation with clustering, anomaly detection in credit card transactions, and skin detection using YCbCr and Gaussian Mixture Models (GMM). Ideal for learning real-world applications of clustering and pattern recognition.
