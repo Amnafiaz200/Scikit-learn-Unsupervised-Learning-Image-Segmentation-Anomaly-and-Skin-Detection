@@ -73,10 +73,13 @@ A comprehensive Python project demonstrating unsupervised learning techniques, i
   
 ## **Install Required Libraries**
 pip install -r requirements.txt
-Datasets
+
+**Datasets**
 Credit Card Fraud Detection Dataset: Available on Kaggle, also included in this repository
-License
+
+**License**
 This project is licensed under the MIT License.
+
 ---
 ## Clone the Repository
 ```bash
