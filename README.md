@@ -7,12 +7,13 @@ A comprehensive Python project demonstrating unsupervised learning techniques, i
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c64a16bb-26c0-40ca-bb47-51ccde7b9eaa" width="250" />
 </p>
-<p float="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/56c748a5-df07-4015-bd2d-a33a463c0618" width="200" />
   <img src="https://github.com/user-attachments/assets/e16d9d66-2662-4901-b043-3a4c8cec3117" width="200" />
   <img src="https://github.com/user-attachments/assets/6a67d0a0-12ea-4572-bf6d-0b79ff5b15d5" width="200" />
 </p>
 <br>
+
 2. **Anomaly Detection in Credit Card Transactions**
    - Detect fraudulent transactions using clustering methods such as **K-means++, K-medoids, and DBSCAN**.
    - Preprocess and standardize the dataset for effective analysis.
@@ -25,6 +26,7 @@ A comprehensive Python project demonstrating unsupervised learning techniques, i
   <img src="https://github.com/user-attachments/assets/a806a8c8-5d0f-4e8e-af50-00c9e8b47783" width="250" />
 </p>
 <br>
+
 3. **Skin Detection via YCbCr + GMM**
    - Convert RGB images to YCbCr color space.
    - Apply **Gaussian Mixture Models** to detect and segment skin regions.
