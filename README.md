@@ -38,6 +38,7 @@ A comprehensive Python project demonstrating unsupervised learning techniques, i
   <img src="https://github.com/user-attachments/assets/bbc607fb-ba68-4b18-b3ca-017a907981b7" width="200" />
 </p>
 <br>
+
 ## **Technologies & Libraries Used**
 - **Python 3.x**
 - **NumPy, Pandas** – for numerical and data manipulation
@@ -71,12 +72,12 @@ A comprehensive Python project demonstrating unsupervised learning techniques, i
 
 ---
 
-## **Getting Started**
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/Unsupervised-Learning-Image-Analysis-and-Anomaly-Detection.git
 cd Unsupervised-Learning-Image-Analysis-and-Anomaly-Detection
 ---
+
 Install required libraries:
 pip install -r requirements.txt
 Run Jupyter notebooks or Python scripts for:
